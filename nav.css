@@ -66,5 +66,18 @@ ul {
        background-size: coVER;
        background-repeat: no-repeat;
    }
+   .Message .static {
+    color:azure;
+    font-size: 80PX;
+    font-weight: 300PX; 
+    text-align: center;
+ }
 
+ .Message .dynamic{
+  color:azure;
+  font-size: 75PX;
+  font-weight: 300PX; 
+  text-align: center;
+
+ }
 
